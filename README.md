@@ -5,7 +5,7 @@
 
 ### 🔧 Tech & Tools
 - 💻 **Languages:** Mainly C#, but i like C++ and JS too
-- 🛠 **Frameworks:** .NET, Forms
+- 🛠 **Frameworks:** .NET, Windows-Forms
 - 🐧 **OS:** Linux (Gentoo, Debian, Kali), Windows  
 - 🌐 **Networking:** just stated with basics and hosted some Webservers like ngnix
   
