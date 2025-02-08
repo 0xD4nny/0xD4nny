@@ -13,7 +13,6 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xD4nny&show_icons=true&theme=dark)](https://github.com/0xD4nny)
 
-
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
