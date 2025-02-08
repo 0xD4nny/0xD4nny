@@ -1,28 +1,40 @@
-name: Upload artifact
+name: Generate Datas
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"  # Läuft alle 12 Stunden
+  workflow_dispatch:  # Manuelles Starten erlaubt
+
+permissions:
+  contents: write  # Wichtig für den Push-Vorgang
+
 jobs:
   build:
-    name: Jobs to update datas
+    name: Jobs to update data
     runs-on: ubuntu-latest
     steps:
-      # Summary Cards
-      - uses: actions/upload-artifact@v3.1.0
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
+      # Repository auschecken (auf v4 aktualisiert!)
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      # Snake Animation generieren (bleibt gleich)
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
-          github_user_name: 28062418
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Artefakte (SVGs) speichern (auf v4 aktualisiert!)
+      - name: Upload Artifact (SVG)
+        uses: actions/upload-artifact@v4
+        with:
+          name: snake
+          path: dist
+
+      # GitHub Pages aktualisieren (auf neueste Version aktualisiert!)
+      - name: Publish Snake Animation to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
