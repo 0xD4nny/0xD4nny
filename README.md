@@ -7,7 +7,7 @@
 </p>
 
 <h3>🐍 Contribution Snake</h3>
-<img src="https://raw.githubusercontent.com/<deinGitHubBenutzername>/<deinGitHubBenutzername>/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+<img src="https://raw.githubusercontent.com/0xD4nny/0xD4nny/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 
 
 <h3>🔧 Programming Languages & Technologies:</h3>
