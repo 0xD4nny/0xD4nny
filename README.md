@@ -6,7 +6,10 @@
     🚀 Interested in <strong>Performance Tuning, OS Simulation & Low-Level Development</strong> and just learning new things.
 </p>
 
-<img src="https://raw.githubusercontent.com/0xD4nny/0xD4nny/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<deinGitHubBenutzername>/<deinGitHubBenutzername>/output/github-contribution-grid-snake-dark.svg">
+   <img src="https://raw.githubusercontent.com/<deinGitHubBenutzername>/<deinGitHubBenutzername>/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</picture>
 
 <h3>🔧 Programming Languages & Technologies:</h3>
 <p>
