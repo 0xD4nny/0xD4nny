@@ -16,7 +16,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Snake Animation generieren (bleibt gleich)
+      # Snake Animation generieren
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
@@ -24,6 +24,14 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          config: >
+            {
+              "progress": false,
+              "color_snake": "#00FF00",
+              "color_dots": "#FFFFFF",
+              "color_grid": "#444444",
+              "color_background": "#000000"
+            }
 
       # Artefakte (SVGs) speichern (auf v4 aktualisiert!)
       - name: Upload Artifact (SVG)
