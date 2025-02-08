@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Upload artifact
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Summary Cards
-      - uses: actions/checkout@v2
+      - uses: actions/upload-artifact@v3.1.0
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
