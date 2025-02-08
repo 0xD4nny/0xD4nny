@@ -6,12 +6,6 @@
     🚀 Interested in <strong>Performance Tuning, OS Simulation & Low-Level Development</strong> and just learning new things.
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xD4nny/0xD4nny/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/0xD4nny/0xD4nny/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-</picture>
-
-
 <h3>🔧 Programming Languages & Technologies:</h3>
 <p>
     <img src="https://img.shields.io/badge/-C%23-239120?style=plastic&logo=csharp&logoColor=black">
@@ -51,7 +45,12 @@
     <img src="https://img.shields.io/badge/-Nginx-009639?style=plastic&logo=nginx&logoColor=black">
 </p>
 
-<hr>
+<!-- Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xD4nny/0xD4nny/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/0xD4nny/0xD4nny/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</picture>
+
 <!-- GitHub Stats -->
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xD4nny&show_icons=true&cache_seconds=86400&layout=compact&theme=tokyonight&hide_border=true">
