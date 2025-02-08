@@ -15,11 +15,11 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4  # 🔹 Aktualisiert auf v4
         with:
           name: snake
           path: dist
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4  # 🔹 Ebenfalls auf v4 aktualisiert
       - name: Push Snakes
         run: |
           mkdir -p output
@@ -29,4 +29,3 @@ jobs:
           git add output
           git commit -m "Update contribution snake"
           git push
-
