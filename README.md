@@ -30,14 +30,13 @@
 ![Gentoo](https://img.shields.io/badge/-Gentoo-54487A?style=plastic&logo=gentoo&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=plastic&logo=kali-linux&logoColor=black)
 
-### 📦 Virtualization & Servers:</br>
+📦 Virtualization & Servers:</br>
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=plastic&logo=virtualbox&logoColor=black)
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=plastic&logo=vmware&logoColor=black)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=plastic&logo=nginx&logoColor=black)
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xD4nny&show_icons=true&cache_seconds=86400&layout=compact&theme=tokyonight&hide_border=true)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xD4nny&show_icons=true&cache_seconds=86400&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xD4nny&show_icons=true&cache_seconds=86400&layout=compact&theme=tokyonight&hide_border=true)          ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xD4nny&show_icons=true&cache_seconds=86400&layout=compact&theme=tokyonight&hide_border=true)
 
 
 
