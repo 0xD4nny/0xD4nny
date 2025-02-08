@@ -45,8 +45,8 @@
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xD4nny/0xD4nny/output/github-contribution-grid-snake-dark.svg">
             <img src="https://raw.githubusercontent.com/0xD4nny/0xD4nny/output/github-contribution-grid-snake.svg" width="100%">
         </picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xD4nny&layout=compact&theme=transparent" style="width: 45%;"/> &nbsp;
-        <img src="https://github-readme-stats.vercel.app/api?username=0xD4nny&show_icons=true&theme=transparent" style="width: 50%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xD4nny&layout=compact&theme=transparent&cache_seconds=3600" style="width: 45%;"/> &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=0xD4nny&show_icons=true&theme=transparent&cache_seconds=3600" style="width: 50%;"/>
     </div>
 </div>
 
