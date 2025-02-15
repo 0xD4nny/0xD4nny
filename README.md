@@ -1,5 +1,5 @@
 <div>
-    <h1 align="center">👋 Hi there, I'm Danny Stark</h1>
+    <h1 align="center">👋 Hi there, I'm Danny</h1>
     <p align="center">💻 <strong>Software Developer Trainee (2nd year)</strong><br></p>
     <h3 align="center">🔧 Programming Languages & Technologies:</h3>
     <div align="center">
