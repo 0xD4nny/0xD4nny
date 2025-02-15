@@ -1,9 +1,6 @@
 <div>
     <h1 align="center">👋 Hi there, I'm Danny Stark</h1>
-    <p align="center">
-        💻 <strong>Software Developer Trainee (2nd year)</strong><br>
-        🚀 Interested in <strong>Performance Tuning, OS Simulation & Low-Level Development, and just learning new things.</strong>
-    </p>
+    <p align="center">💻 <strong>Software Developer Trainee (2nd year)</strong><br></p>
     <h3 align="center">🔧 Programming Languages & Technologies:</h3>
     <div align="center">
         <img src="https://img.shields.io/badge/-C%23-239120?style=plastic&logo=csharp&logoColor=black">
@@ -33,7 +30,6 @@
         <img src="https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=linux&logoColor=black">
         <img src="https://img.shields.io/badge/-Debian-A81D33?style=plastic&logo=debian&logoColor=black">
         <img src="https://img.shields.io/badge/-Gentoo-54487A?style=plastic&logo=gentoo&logoColor=black">
-        <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=plastic&logo=kali-linux&logoColor=black">
     </div>
     <h3 align="center">📦 Virtualization & Servers:</h3>
     <div align="center">
