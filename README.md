@@ -11,12 +11,8 @@
         <img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=black">
         <img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=black">
         <img src="https://img.shields.io/badge/-SQL-4479A1?style=plastic&logo=postgresql&logoColor=white">
-    </div>
-    <!--
-    <h3 align="center">🖥️ UI Frameworks & Libraries:</h3>
-    <div align="center">
         <img src="https://img.shields.io/badge/-DevExpress-FF7200?style=plastic&logo=devexpress&logoColor=black">
-    -->
+    </div>
     </div>
     <h3 align="center">🔄 Version Control:</h3>
     <div align="center">
